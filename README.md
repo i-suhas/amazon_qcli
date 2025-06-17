@@ -10,7 +10,7 @@ This project implements a rail shooter style game using Python. Rail shooters ar
 
 ## Demo
 
-Check out the gameplay demo video: [rail shooter.mp4](rail shooter.mp4)
+Check out the gameplay demo video: [[rail shooter.mp4](https://github.com/i-suhas/amazon_qcli/blob/main/rail%20shooter.mp4)](rail shooter.mp4)
 
 ## Features
 
