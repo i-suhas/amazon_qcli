@@ -52,18 +52,4 @@ python rail_shooter.py
 
 ## Controls
 
-- [Describe game controls here]
-- Example: Use WASD to aim, mouse to shoot
-- [Add any other control information]
-
-## Development
-
-[Add information about the development process, architecture, or any other relevant details]
-
-## License
-
-[Choose an appropriate license for your project]
-
-## Acknowledgments
-
-- [Credit any resources, tutorials, or inspirations used]
+- Example: Use curser to aim, mouse to shoot
